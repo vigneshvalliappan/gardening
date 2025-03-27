@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
   <diagram name="Page-1" id="4l4IsSA_Ub1HTgt-EzOl">
-    <mxGraphModel>
+    <mxGraphModel dx="1346" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wuPh1dbSjncncGqh15LH-1" value="planter bed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPh1dbSjncncGqh15LH-2" value="planter bed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPh1dbSjncncGqh15LH-3" value="planter bed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPh1dbSjncncGqh15LH-4" value="planter bed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPh1dbSjncncGqh15LH-5" value="planter bed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPh1dbSjncncGqh15LH-6" value="planter bed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPh1dbSjncncGqh15LH-7" value="planter bed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPh1dbSjncncGqh15LH-8" value="planter bed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPh1dbSjncncGqh15LH-9" value="planter bed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wuPh1dbSjncncGqh15LH-10" value="planter bed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="200" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
